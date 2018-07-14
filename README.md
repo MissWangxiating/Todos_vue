@@ -2,6 +2,8 @@
 
 > myFirstProject
 
+#An example of todo_list
+
 ## Build Setup
 
 ``` bash
